@@ -1,5 +1,7 @@
 # AfterAI
 
+Content is licensed under CC BY-SA 4.0. Code is licensed under [MIT License].
+
 This is the genesis log of AfterAI. Exploring sovereign living in the post-AI era.
 
 Day 03: Unfinished Thoughts 01

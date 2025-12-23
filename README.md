@@ -2,7 +2,7 @@
 
 This is the genesis log of AfterAI. Exploring sovereign living in the post-AI era.
 
-Day 03: Unfinished Thoughts 01
+Day 003: Unfinished Thoughts 001
 
 Having endured years of depression, I began to engage in deep dialogues with Large Language Models (LLMs) during a period of intense suffering. Through systematic analysis, I gradually understood myself and eventually achieved trauma recovery.
 
